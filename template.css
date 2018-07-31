@@ -1,0 +1,86 @@
+body{
+	background-color:rgb(131, 155, 193);
+	font-family: 'Amatic SC', cursive;
+}
+#description{
+	padding: 40px;
+	color: grey;
+	background-color: snow;
+	min-height: 450px;
+	text-align: center;
+	margin-top: 50px;
+
+}
+#page_content{
+	width:85%;
+	margin: auto;
+}
+#top_nav{
+	text-align: right;
+	text-decoration: none;
+}
+#page_title{
+	text-align: center;
+	border-top-left-radius: 20px;
+	border-top-right-radius: 20px;
+	text-shadow: 1px 1px 1px black;
+	background-color: snow;
+	font-size: 2em;
+	color: grey;
+	letter-spacing: .2em;
+}
+.top_nav_item {
+	margin: 20px;
+	color: midnightblue;
+	font-size: 1.2em;
+	text-decoration: none;
+}
+#page_content{
+	width: 80%
+	margin:auto;
+}
+.top_nav: hover {
+	margin: 20px
+	color: white;
+	text-decoration: none;
+}
+#current_page1:hover{
+	border-bottom: 3px solid mistyrose;
+}
+#current_page2:hover{
+	border-bottom: 3px solid mistyrose;
+}
+#current_page3:hover{
+	border-bottom: 3px solid mistyrose;
+}
+#current_page4:hover{
+	border-bottom: 3px solid mistyrose;
+}
+#current_page5:hover{
+	border-bottom: 3px solid mistyrose;
+}
+#Diaz{
+	text-align: right;
+}
+
+.logo {
+	border: none;
+}
+#pic {
+	float: left;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
